@@ -1,0 +1,9 @@
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\bin\Debug\GameMushroomPlaces.exe.config
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\bin\Debug\GameMushroomPlaces.exe
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\bin\Debug\GameMushroomPlaces.pdb
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.g.resources
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.View.resources
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.Properties.Resources.resources
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.csproj.GenerateResource.Cache
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.exe
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces\obj\Debug\GameMushroomPlaces.pdb

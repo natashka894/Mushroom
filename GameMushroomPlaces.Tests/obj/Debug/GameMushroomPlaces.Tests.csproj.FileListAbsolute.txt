@@ -1,0 +1,9 @@
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces.Tests\obj\Debug\GameMushroomPlaces.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces.Tests\bin\Debug\GameMushroomPlaces.Tests.dll
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces.Tests\bin\Debug\GameMushroomPlaces.Tests.pdb
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces.Tests\bin\Debug\GameMushroomPlaces.exe
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces.Tests\bin\Debug\GameMushroomPlaces.pdb
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces.Tests\obj\Debug\GameMushroomPlaces.Tests.dll
+C:\Users\Наталия\Documents\Visual Studio 2015\Projects\GameMushroomPlaces\GameMushroomPlaces.Tests\obj\Debug\GameMushroomPlaces.Tests.pdb
